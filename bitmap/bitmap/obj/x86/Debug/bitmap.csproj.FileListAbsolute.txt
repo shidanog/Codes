@@ -1,0 +1,11 @@
+F:\wpf_mytest\bitmap\bitmap\bin\Debug\bitmap.exe
+F:\wpf_mytest\bitmap\bitmap\bin\Debug\bitmap.pdb
+F:\wpf_mytest\bitmap\bitmap\obj\x86\Debug\MainWindow.baml
+F:\wpf_mytest\bitmap\bitmap\obj\x86\Debug\MainWindow.g.cs
+F:\wpf_mytest\bitmap\bitmap\obj\x86\Debug\App.g.cs
+F:\wpf_mytest\bitmap\bitmap\obj\x86\Debug\bitmap_MarkupCompile.cache
+F:\wpf_mytest\bitmap\bitmap\obj\x86\Debug\bitmap.g.resources
+F:\wpf_mytest\bitmap\bitmap\obj\x86\Debug\bitmap.Properties.Resources.resources
+F:\wpf_mytest\bitmap\bitmap\obj\x86\Debug\bitmap.exe
+F:\wpf_mytest\bitmap\bitmap\obj\x86\Debug\bitmap.pdb
+F:\wpf_mytest\bitmap\bitmap\obj\x86\Debug\bitmap.csproj.GenerateResource.Cache

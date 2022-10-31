@@ -1,0 +1,13 @@
+F:\wpf_mytest\BytesCopyTest\BytesCopyTest\bin\Debug\BytesCopyTest.exe
+F:\wpf_mytest\BytesCopyTest\BytesCopyTest\bin\Debug\BytesCopyTest.pdb
+F:\wpf_mytest\BytesCopyTest\BytesCopyTest\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\wpf_mytest\BytesCopyTest\BytesCopyTest\obj\x86\Debug\MainWindow.baml
+F:\wpf_mytest\BytesCopyTest\BytesCopyTest\obj\x86\Debug\MainWindow.g.cs
+F:\wpf_mytest\BytesCopyTest\BytesCopyTest\obj\x86\Debug\App.g.cs
+F:\wpf_mytest\BytesCopyTest\BytesCopyTest\obj\x86\Debug\BytesCopyTest_MarkupCompile.cache
+F:\wpf_mytest\BytesCopyTest\BytesCopyTest\obj\x86\Debug\BytesCopyTest.g.resources
+F:\wpf_mytest\BytesCopyTest\BytesCopyTest\obj\x86\Debug\BytesCopyTest.Properties.Resources.resources
+F:\wpf_mytest\BytesCopyTest\BytesCopyTest\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\wpf_mytest\BytesCopyTest\BytesCopyTest\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\wpf_mytest\BytesCopyTest\BytesCopyTest\obj\x86\Debug\BytesCopyTest.exe
+F:\wpf_mytest\BytesCopyTest\BytesCopyTest\obj\x86\Debug\BytesCopyTest.pdb
